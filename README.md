@@ -1,4 +1,4 @@
-# Project-2-Car-Repo-
+# Car Finder
 
 * Repo for Make Model of Cars and with the price determinate. 
 
